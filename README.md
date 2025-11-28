@@ -1,5 +1,5 @@
 # Hi, I'm Razmia Sabahat
-I'm a **Bioinformatics Scientist** with a background in genomics, and transcriptomics. 
+I'm a **Bioinformatics Scientist** with a background in genomics and transcriptomics. 
 ## Expertise
 - **Whole Genome (WGS) and Whole Exome Sequencing (WES) Analysis**  
   - Data preprocessing, alignment, and variant calling  
@@ -17,5 +17,6 @@ I'm continuously expanding my skill set. My current focus is **spatial transcrip
 
 
 ---
+
 
 
