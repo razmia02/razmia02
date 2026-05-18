@@ -53,4 +53,4 @@ reproducible, interpretable results.
 ## Connect
 - razmia.sabahat@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/razmia-butt)
-- [ORCID]([https://orcid.org/0000-0001-7359-520X]
+- [ORCID](https://orcid.org/0000-0001-7359-520X)
