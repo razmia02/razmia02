@@ -40,7 +40,7 @@ reproducible, interpretable results.
 | [targeted-exome-seq-analysis](https://github.com/razmia02/targeted-exome-seq-analysis) | End-to-end germline variant calling pipeline on cancer predisposition genes | Bash, GATK |
 | [scRNA_seq_Analysis_Mouse_Brain](https://github.com/razmia02/scRNA_seq_Analysis_Mouse_Brain) | scRNA-seq analysis of E18 mouse brain; identified 7 neural cell populations | R, Seurat |
 | [Differential_Expression_Analysis_PTC](https://github.com/razmia02/Differential_Expression_Analysis_PTC) | DEG analysis of papillary thyroid carcinoma (GEO: GSE224356) | R, DESeq2 |
-| [Isoform_Switch_Analysis_HCC]([https://github.com/razmia02/Differential_Expression_Analysis_PTC](https://github.com/razmia02/Isoform_Switch_Analysis)) | Analyzing isoform switches in Hürthle cell carcinoma, using Salmon & IsoformSwitchAnalyzeR (GEO: GSE228870) | Salmon, R |
+| [Isoform_Switch_Analysis_HCC](https://github.com/razmia02/Isoform_Switch_Analysis) | Analyzing isoform switches in Hürthle cell carcinoma, using Salmon & IsoformSwitchAnalyzeR (GEO: GSE228870) | Bash, R |
 
 
 ---
