@@ -1,11 +1,6 @@
 # Hi, I'm Razmia Sabahat
 
-Bioinformatics Scientist with hands-on experience in **NGS data analysis**,
-spanning genomics and transcriptomics. Currently working remotely as a
-bioinformatics data analyst, where I translate raw sequencing data into
-reproducible, interpretable results. 
-
----
+Bioinformatics Scientist with hands-on experience in **NGS data analysis**, spanning genomics and transcriptomics. Currently working remotely as a bioinformatics data analyst, where I translate raw sequencing data into reproducible, interpretable results. I have a habit of picking up public datasets and playing around until I find something the original study missed;  most of the projects here started exactly that way.
 
 ## Skills & Expertise
 
